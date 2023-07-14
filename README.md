@@ -1,6 +1,7 @@
 # https://JesseJesse.com 
-## [![Deploy static content to Pages](https://github.com/sudo-self/JesseJesse.com/actions/workflows/static.yml/badge.svg)](https://github.com/sudo-self/JesseJesse.com/actions/workflows/static.yml)
-### <img width="1204" alt="Screenshot 2023-05-26 at 10 39 02 PM" src="https://github.com/sudo-self/JesseJesse.com/assets/119916323/87822e92-9f04-42f0-a78b-e3a007648e4b">
+<img width="1440" alt="Screenshot 2023-07-13 at 9 42 38 PM" src="https://github.com/sudo-self/JesseJesse.com/assets/119916323/9bd8e286-b4d5-4f00-a43f-5015f1e5a9ba">
+![1680761007386](https://github.com/sudo-self/JesseJesse.com/assets/119916323/b732221b-7fcb-470f-81b4-1f9b1e516994)
+
 
             
                 </div>
