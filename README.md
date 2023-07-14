@@ -1,6 +1,5 @@
 # https://JesseJesse.com 
 <img width="1440" alt="Screenshot 2023-07-13 at 9 42 38 PM" src="https://github.com/sudo-self/JesseJesse.com/assets/119916323/9bd8e286-b4d5-4f00-a43f-5015f1e5a9ba">
-![1680761007386](https://github.com/sudo-self/JesseJesse.com/assets/119916323/b732221b-7fcb-470f-81b4-1f9b1e516994)
 
 
             
