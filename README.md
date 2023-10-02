@@ -1,4 +1,4 @@
-# https://JesseJesse.com 
+# <a href="https://JesseJesse.com">Jesse Jesse dot com
 <img width="1440" alt="Screenshot 2023-07-13 at 9 42 38 PM" src="https://github.com/sudo-self/JesseJesse.com/assets/119916323/9bd8e286-b4d5-4f00-a43f-5015f1e5a9ba">
 
 
